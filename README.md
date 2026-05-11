@@ -4,12 +4,11 @@
 </p>
 
 <p align="center">
-  <b>Backend Systems • Distributed Infrastructure • Applied AI</b>
+  <b>Backend Systems • AI Agents</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mahirpatel04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:patel.mahir.h@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
